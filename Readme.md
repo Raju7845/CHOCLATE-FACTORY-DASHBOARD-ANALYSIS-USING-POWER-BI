@@ -4,6 +4,7 @@ This project involves analyzing a chocolate dataset using Power BI to provide in
 Dataset
 The dataset contains sales data for chocolates, including the amount sold, the number of boxes sold, the sale dates, and the countries where the chocolates were sold.
  Key Features and Visualizations
+
 1.Line Chart:  
    Used to analyze monthly chocolate sales trends. This helps in visualizing the performance of chocolate sales over different months.
 
